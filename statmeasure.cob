@@ -1,5 +1,4 @@
-*> Adina Mubbashir (1173271)
-*> March 26, 2024
+*> Adina Mubbashir
 
 *> Defines the program's name
 identification division.
